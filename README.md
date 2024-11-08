@@ -31,16 +31,26 @@ L'IA générative pourrait ainsi non seulement rendre la création de contenu pl
 Les objectifs de ce mémoire sont structurés autour de trois axes principaux. 
 
 - Premièrement, identifier précisément ce que l'IA générative peut __apporter en termes de productivité et de qualité__ pour les concepteurs pédagogiques. 
-- Deuxièmement, analyser comment elle __--__impacte la créativité dans la phase de scénarisation__, un aspect clé dans la conception de jeux d'évasion, qui repose sur des récits immersifs et cohérents. 
+- Deuxièmement, analyser comment elle __impacte la créativité dans la phase de scénarisation__, un aspect clé dans la conception de jeux d'évasion, qui repose sur des récits immersifs et cohérents. 
 - Enfin, l’étude propose des recommandations pratiques pour l’optimisation de l’IA dans la création pédagogique, en visant à __maximiser son potentiel sans sacrifier la qualité éducative__ des contenus produits. 
 
 L'idée est d’aboutir à un modèle où l'IA devient un véritable __co-concepteur pédagogique__, en étant capable de générer du contenu pertinent et facilement intégrable dans des scénarios immersifs.
 
 ## Slide 4 : Enjeux
-Les enjeux de cette recherche sont multiples. Au niveau macro, il s’agit d’apporter une innovation pédagogique substantielle dans l’enseignement du français des affaires, en exploitant l’IA pour des apprentissages à la fois ludiques et réalistes. Plus spécifiquement, cette étude examine le potentiel de l’IA pour rendre les contenus éducatifs plus immersifs et plus ciblés, en alignant les activités pédagogiques avec les situations professionnelles que les apprenants pourraient rencontrer dans leur quotidien. Un autre enjeu essentiel est l’accessibilité de la formation, car l'IA pourrait faciliter la création de ressources de qualité sans nécessiter des compétences expertes en création de contenus. Cela permettrait aux petites structures éducatives d'innover tout en restant dans un cadre budgétaire raisonnable.
+Les enjeux de cette recherche sont multiples. 
+
+Au niveau macro, il s’agit d’apporter une innovation pédagogique substantielle dans l’enseignement du français des affaires, en exploitant l’IA pour des apprentissages à la fois ludiques et réalistes. Plus spécifiquement, cette étude examine le potentiel de l’IA pour rendre les contenus éducatifs plus immersifs et plus ciblés, en alignant les activités pédagogiques avec les situations professionnelles que les apprenants pourraient rencontrer dans leur quotidien. 
+
+Un autre enjeu essentiel est l’accessibilité de la formation, car l'IA pourrait faciliter la création de ressources de qualité sans nécessiter des compétences expertes en création de contenus. Cela permettrait aux petites structures éducatives d'innover tout en restant dans un cadre budgétaire raisonnable.
 
 ## Slide 5 : Notions clés (Cadre théorique)
-Le cadre théorique de ce mémoire repose sur des concepts fondamentaux qui enrichissent notre compréhension de l'IA générative et de son usage dans la pédagogie. L’IA générative, par exemple, est expliquée en détail : il s’agit de technologies qui produisent du contenu automatisé en fonction des requêtes, ou prompts, formulés par l’utilisateur. Des chercheurs comme Flindt & Vogt (2021) et Kim et al. (2023) ont exploré comment ces technologies influencent la création de contenu dans un contexte éducatif, en examinant leurs avantages, mais aussi leurs limites, comme la précision variable ou les risques d'erreurs conceptuelles. L'étude approfondit également le concept des jeux d'évasion pédagogiques, un format immersif et engageant qui se prête bien à l’apprentissage de compétences spécifiques. Enfin, le FOS ou Français sur Objectifs Spécifiques est un pilier du cadre théorique, car il met en lumière l’importance d’adapter l’enseignement linguistique aux besoins professionnels concrets des apprenants.
+Le cadre théorique de ce mémoire repose sur des concepts fondamentaux qui enrichissent notre compréhension de l'IA générative et de son usage dans la pédagogie. L’IA générative, par exemple, est expliquée en détail : il s’agit de technologies qui produisent du contenu automatisé en fonction des requêtes, ou prompts, formulés par l’utilisateur. 
+
+Des chercheurs comme __Flindt & Vogt (2021)__ et __Kim et al. (2023)__ ont exploré comment ces technologies influencent la création de contenu dans un contexte éducatif, en examinant leurs avantages, mais aussi leurs limites, comme la précision variable ou les risques d'erreurs conceptuelles. 
+
+L'étude approfondit également le concept des jeux d'évasion pédagogiques, un format immersif et engageant qui se prête bien à l’apprentissage de compétences spécifiques. 
+
+Enfin, le FOS ou Français sur Objectifs Spécifiques est un pilier du cadre théorique, car il met en lumière l’importance d’adapter l’enseignement linguistique aux besoins professionnels concrets des apprenants.
 
 ## Slide 6 : Notions clés (Suite)
 Un élément central dans la manipulation de l’IA pour ce mémoire est l’élaboration et la structuration des prompts. Les résultats de la recherche montrent que la formulation d’un prompt efficace nécessite une bonne maîtrise, afin de maximiser la pertinence et l’utilité des réponses fournies par l’IA. Les prompts permettent aussi de diriger l'IA pour générer des contenus multimodaux, c'est-à-dire sous forme de texte, d’images ou de sons, selon les besoins spécifiques de la pédagogie du jeu d’évasion. Cette partie de l'étude s’appuie sur les travaux de Dhorne (2024), qui soulignent l’importance de savoir comment guider l’IA pour obtenir des contenus à la fois pertinents et éducatifs. L’auteur explore également comment l’IA peut combler des lacunes créatives chez les concepteurs, en les inspirant ou en leur offrant un point de départ pour leurs scénarios de jeux éducatifs.
