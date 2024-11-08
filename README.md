@@ -69,10 +69,22 @@ Cette question ouvre un champ d’investigation sur les spécificités et défis
 L’étude cherche à démontrer comment l’IA peut être un outil d'assistance et d’enrichissement pédagogique, mais aussi à identifier les limitations techniques et éthiques qu’il convient de prendre en compte.
 
 ## Slide 8 : Méthodologie
-Pour explorer cette problématique, une méthodologie mixte a été employée. Des entretiens semi-directifs ont été menés pour recueillir les perceptions des concepteurs pédagogiques et identifier leurs besoins et attentes vis-à-vis de l’IA. En complément, une expérimentation pratique a permis de comparer deux processus de création de jeux d'évasion éducatifs : l’un assisté par l’IA et l’autre basé uniquement sur des méthodes traditionnelles. Ce double axe méthodologique permet une analyse croisée des résultats, qui intègre aussi bien des données qualitatives, issues des entretiens, que des observations quantitatives sur les performances et la pertinence du contenu généré.
+Pour explorer cette problématique, une méthodologie mixte a été employée. Des __entretiens semi-directifs__ ont été menés pour recueillir les perceptions des concepteurs pédagogiques et identifier leurs besoins et attentes vis-à-vis de l’IA. 
+
+En complément, une expérimentation pratique a permis de comparer deux processus de création de jeux d'évasion éducatifs : l’un assisté par l’IA et l’autre basé uniquement sur des méthodes traditionnelles. 
+
+Ce double axe méthodologique permet une analyse croisée des résultats, qui intègre aussi bien des données qualitatives, issues des entretiens, que des observations quantitatives sur les performances et la pertinence du contenu généré.
 
 ## Slide 9 : Méthodologie - Étapes
-Plus précisément, la méthodologie s’est déroulée en plusieurs étapes clés. Premièrement, une sélection des outils d’IA les plus performants a été réalisée, en tenant compte de leur facilité d’utilisation, de leur flexibilité et de leur capacité à générer des contenus multimodaux. Ensuite, l’équipe de conception a élaboré des scénarios de jeux d’évasion, en s’appuyant à la fois sur leurs propres idées et sur les suggestions générées par l’IA. Par la suite, des ressources multimédias ont été créées, incluant des dialogues, des instructions et des illustrations. Enfin, des tests de validation ont permis d’évaluer la pertinence et l’efficacité de chaque jeu produit, en identifiant les ajustements nécessaires pour atteindre une qualité pédagogique optimale.
+Plus précisément, la méthodologie s’est déroulée en plusieurs étapes clés. 
+
+Premièrement, une sélection des outils d’IA les plus performants a été réalisée, en tenant compte de leur facilité d’utilisation, de leur flexibilité et de leur capacité à générer des contenus multimodaux. 
+
+Ensuite, l’équipe de conception a élaboré des scénarios de jeux d’évasion, en s’appuyant à la fois sur leurs propres idées et sur les suggestions générées par l’IA. 
+
+Par la suite, des ressources multimédias ont été créées, incluant des dialogues, des instructions et des illustrations. 
+
+Enfin, des tests de validation ont permis d’évaluer la pertinence et l’efficacité de chaque jeu produit, en identifiant les ajustements nécessaires pour atteindre une qualité pédagogique optimale.
 
 ## Slide 10 : Cahier des charges du projet
 Le cahier des charges du projet a été pensé pour répondre aux besoins spécifiques des apprenants en français des affaires, tout en intégrant les possibilités offertes par l’IA. Les apprenants ciblés ont besoin de compétences linguistiques directement applicables dans des contextes professionnels. Pour cela, Mariane Mendes-Gayte a choisi d'utiliser des outils d'IA avancés, comme ChatGPT-4 pour générer du texte, Runway pour la création de contenu visuel, Articulate Storyline pour structurer le jeu, et Canva pour la conception graphique. Ce jeu d’évasion pédagogique doit permettre aux apprenants d'acquérir des compétences de communication dans des situations réalistes, telles que des négociations, des résolutions de problèmes en équipe, et des échanges d'e-mails professionnels. L’auteur a veillé à ce que le jeu soit accessible en autonomie, ce qui constitue une innovation pédagogique permettant une pratique linguistique répétée et flexible pour les apprenants.
