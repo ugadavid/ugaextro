@@ -53,10 +53,20 @@ L'étude approfondit également le concept des jeux d'évasion pédagogiques, un
 Enfin, le FOS ou Français sur Objectifs Spécifiques est un pilier du cadre théorique, car il met en lumière l’importance d’adapter l’enseignement linguistique aux besoins professionnels concrets des apprenants.
 
 ## Slide 6 : Notions clés (Suite)
-Un élément central dans la manipulation de l’IA pour ce mémoire est l’élaboration et la structuration des prompts. Les résultats de la recherche montrent que la formulation d’un prompt efficace nécessite une bonne maîtrise, afin de maximiser la pertinence et l’utilité des réponses fournies par l’IA. Les prompts permettent aussi de diriger l'IA pour générer des contenus multimodaux, c'est-à-dire sous forme de texte, d’images ou de sons, selon les besoins spécifiques de la pédagogie du jeu d’évasion. Cette partie de l'étude s’appuie sur les travaux de Dhorne (2024), qui soulignent l’importance de savoir comment guider l’IA pour obtenir des contenus à la fois pertinents et éducatifs. L’auteur explore également comment l’IA peut combler des lacunes créatives chez les concepteurs, en les inspirant ou en leur offrant un point de départ pour leurs scénarios de jeux éducatifs.
+Un élément central dans la manipulation de l’IA pour ce mémoire est l’élaboration et la structuration des prompts. Les résultats de la recherche montrent que la formulation d’un prompt efficace nécessite une bonne maîtrise, afin de maximiser la pertinence et l’utilité des réponses fournies par l’IA. 
+
+Les prompts permettent aussi de diriger l'IA pour générer des contenus multimodaux, c'est-à-dire sous forme de texte, d’images ou de sons, selon les besoins spécifiques de la pédagogie du jeu d’évasion. 
+
+Cette partie de l'étude s’appuie sur les travaux de __Dhorne (2024)__, qui soulignent l’importance de savoir comment guider l’IA pour obtenir des contenus à la fois pertinents et éducatifs. 
+
+L’auteur explore également comment l’IA peut combler des lacunes créatives chez les concepteurs, en les inspirant ou en leur offrant un point de départ pour leurs scénarios de jeux éducatifs.
 
 ## Slide 7 : Problématique
-La problématique posée par l’auteur est la suivante : 'Quels sont les apports et les limites des outils d’IA générative pour un concepteur pédagogique dans la création de jeux d’évasion éducatifs virtuels pour l’enseignement du français des affaires ?' Cette question ouvre un champ d’investigation sur les spécificités et défis de l’IA dans le cadre éducatif. Elle interroge notamment la capacité de l’IA à produire un contenu pertinent qui s’aligne sur des objectifs pédagogiques précis, tout en étant attrayant pour les apprenants. L’étude cherche à démontrer comment l’IA peut être un outil d'assistance et d’enrichissement pédagogique, mais aussi à identifier les limitations techniques et éthiques qu’il convient de prendre en compte.
+La problématique posée par l’auteur est la suivante : "Quels sont les apports et les limites des outils d’IA générative pour un concepteur pédagogique dans la création de jeux d’évasion éducatifs virtuels pour l’enseignement du français des affaires ?" 
+
+Cette question ouvre un champ d’investigation sur les spécificités et défis de l’IA dans le cadre éducatif. Elle interroge notamment la capacité de l’IA à produire un contenu pertinent qui s’aligne sur des objectifs pédagogiques précis, tout en étant attrayant pour les apprenants. 
+
+L’étude cherche à démontrer comment l’IA peut être un outil d'assistance et d’enrichissement pédagogique, mais aussi à identifier les limitations techniques et éthiques qu’il convient de prendre en compte.
 
 ## Slide 8 : Méthodologie
 Pour explorer cette problématique, une méthodologie mixte a été employée. Des entretiens semi-directifs ont été menés pour recueillir les perceptions des concepteurs pédagogiques et identifier leurs besoins et attentes vis-à-vis de l’IA. En complément, une expérimentation pratique a permis de comparer deux processus de création de jeux d'évasion éducatifs : l’un assisté par l’IA et l’autre basé uniquement sur des méthodes traditionnelles. Ce double axe méthodologique permet une analyse croisée des résultats, qui intègre aussi bien des données qualitatives, issues des entretiens, que des observations quantitatives sur les performances et la pertinence du contenu généré.
