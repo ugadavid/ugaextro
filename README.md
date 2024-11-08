@@ -10,9 +10,13 @@
 
 
 ## Slide 1 : Couverture
-Bonjour à toutes et à tous. Aujourd’hui, je vais vous présenter le mémoire de Mariane Mendes-Gayte, intitulé **L'IA générative au service de la conception pédagogique - Création d'un jeu d'évasion pour l'enseignement du français des affaires**. 
+Bonjour à toutes et à tous. Aujourd’hui, je vais vous présenter le mémoire de __Mariane Mendes-Gayte__, intitulé **L'IA générative au service de la conception pédagogique - Création d'un jeu d'évasion pour l'enseignement du français des affaires**. 
 
-Ce mémoire, réalisé dans le cadre du Master DILIPEM à l’Université Grenoble Alpes en 2024, se concentre sur l’apport de l’intelligence artificielle générative dans le domaine pédagogique. Sous la direction de Sylvain Hatier, Mariane Mendes-Gayte explore comment l’IA peut transformer la manière dont nous créons du contenu éducatif, tout particulièrement dans un format innovant de jeu d’évasion. Je me nomme David Subileau, et je vais vous guider à travers les points clés de ce travail, en mettant en évidence à la fois les apports et les limites de l’IA dans cette démarche.
+Ce mémoire, réalisé dans le cadre du __Master DILIPEM__ à l’Université Grenoble Alpes en 2024, se concentre sur l’apport de l’intelligence artificielle générative dans le domaine pédagogique. 
+
+Sous la direction de __Sylvain Hatier__, __Mariane Mendes-Gayte__ explore comment l’IA peut transformer la manière dont nous créons du contenu éducatif, tout particulièrement dans un format innovant de jeu d’évasion. 
+
+Je me nomme __David Subileau__, et je vais vous guider à travers les points clés de ce travail, en mettant en évidence à la fois les apports et les limites de l’IA dans cette démarche.
 
 ## Slide 2 : Contexte
 Dans le contexte actuel, les avancées technologiques, en particulier en intelligence artificielle, transforment rapidement divers secteurs, dont l'éducation. L'intégration de l’IA générative dans les environnements d'apprentissage est devenue un enjeu central pour les établissements et entreprises qui cherchent à enrichir l'expérience pédagogique. E-Learning Studio, l’entreprise où Mariane Mendes-Gayte a effectué son stage, a vu dans l’IA une opportunité d'améliorer ses pratiques en créant des contenus immersifs, adaptés aux besoins de ses apprenants en français des affaires. Ce contexte est également marqué par une demande croissante d’apprentissages spécifiques, comme le français sur objectifs spécifiques (ou FOS), qui met l'accent sur des compétences linguistiques professionnelles. L'IA générative pourrait ainsi non seulement rendre la création de contenu plus rapide et moins coûteuse, mais aussi plus attractive pour des apprenants en quête de formations concrètes et engageantes.
