@@ -116,10 +116,23 @@ Cependant, le mémoire souligne aussi que l’IA ne peut pas remplacer complète
 Ce mémoire marque un tournant vers une approche collaborative entre l’humain et l’IA dans l’éducation numérique.
 
 ## Slide 14 : Apports et applications personnelles
-Pour Mariane Mendes-Gayte, ce travail représente une expérience enrichissante et formatrice, qui lui a permis d’acquérir des compétences de pointe dans la conception pédagogique numérique. Elle a pu constater les apports mais aussi les limites de l’IA, ce qui l'a amenée à affiner son approche de la création de contenus pédagogiques. Cette expérience lui permet d’envisager d’autres applications de l’IA dans des contextes variés, en utilisant des outils génératifs pour faciliter le travail de conception tout en garantissant une qualité optimale pour l’apprenant. Ce mémoire ouvre aussi la voie à des possibilités de collaboration future avec des entreprises d’e-learning qui cherchent à intégrer l’IA dans leurs offres pédagogiques. Pour nous aussi, cette étude montre l'importance de rester à la pointe de la technologie tout en ayant une réflexion critique sur les outils que nous utilisons.
+Pour __Mariane Mendes-Gayte__, ce travail représente une expérience enrichissante et formatrice, qui lui a permis d’acquérir des compétences de pointe dans la conception pédagogique numérique. Elle a pu constater les apports mais aussi les limites de l’IA, ce qui l'a amenée à affiner son approche de la création de contenus pédagogiques. 
+
+Cette expérience lui permet d’envisager d’autres applications de l’IA dans des contextes variés, en utilisant des outils génératifs pour faciliter le travail de conception tout en garantissant une qualité optimale pour l’apprenant. 
+
+Ce mémoire ouvre aussi la voie à des possibilités de collaboration future avec des entreprises d’e-learning qui cherchent à intégrer l’IA dans leurs offres pédagogiques. 
+
+Pour nous aussi, cette étude montre l'importance de rester à la pointe de la technologie tout en ayant une réflexion critique sur les outils que nous utilisons.
 
 ## Slide 15 : Bibliographie et Sitographie
-Enfin, voici les principales références qui ont soutenu le cadre théorique et la méthodologie de ce mémoire. Les travaux de Flindt et Vogt (2021), Kim et al. (2023), et Biden (2000) ont été essentiels pour explorer les concepts d’IA générative et leurs implications en éducation. Les études de Dhorne (2024) ont aussi permis de comprendre comment structurer les prompts pour maximiser l’utilité pédagogique de l’IA. Cette bibliographie offre un aperçu de la richesse des recherches actuelles sur l’IA et l’éducation, et constitue une base solide pour quiconque souhaite approfondir ce sujet passionnant. Ces références illustrent également les débats et les questionnements éthiques que l’IA génère dans le domaine de l’éducation.
+Enfin, voici les principales références qui ont soutenu le cadre théorique et la méthodologie de ce mémoire. 
+
+Les travaux de __Flindt et Vogt (2021)__, __Kim et al. (2023)__, et __Biden (2000)__ ont été essentiels pour explorer les concepts d’IA générative et leurs implications en éducation. 
+Les études de __Dhorne (2024)__ ont aussi permis de comprendre comment structurer les prompts pour maximiser l’utilité pédagogique de l’IA. 
+
+Cette bibliographie offre un aperçu de la richesse des recherches actuelles sur l’IA et l’éducation, et constitue une base solide pour quiconque souhaite approfondir ce sujet passionnant. 
+
+Ces références illustrent également les débats et les questionnements éthiques que l’IA génère dans le domaine de l’éducation.
 
 
 
