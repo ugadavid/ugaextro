@@ -28,7 +28,13 @@ Ce contexte est également marqué par une demande croissante d’apprentissages
 L'IA générative pourrait ainsi non seulement rendre la création de contenu plus rapide et moins coûteuse, mais aussi plus attractive pour des apprenants en quête de formations concrètes et engageantes.
 
 ## Slide 3 : Objectifs spécifiques
-Les objectifs de ce mémoire sont structurés autour de trois axes principaux. Premièrement, identifier précisément ce que l'IA générative peut apporter en termes de productivité et de qualité pour les concepteurs pédagogiques. Deuxièmement, analyser comment elle impacte la créativité dans la phase de scénarisation, un aspect clé dans la conception de jeux d'évasion, qui repose sur des récits immersifs et cohérents. Enfin, l’étude propose des recommandations pratiques pour l’optimisation de l’IA dans la création pédagogique, en visant à maximiser son potentiel sans sacrifier la qualité éducative des contenus produits. L'idée est d’aboutir à un modèle où l'IA devient un véritable co-concepteur pédagogique, en étant capable de générer du contenu pertinent et facilement intégrable dans des scénarios immersifs.
+Les objectifs de ce mémoire sont structurés autour de trois axes principaux. 
+
+- Premièrement, identifier précisément ce que l'IA générative peut __apporter en termes de productivité et de qualité__ pour les concepteurs pédagogiques. 
+- Deuxièmement, analyser comment elle __--__impacte la créativité dans la phase de scénarisation__, un aspect clé dans la conception de jeux d'évasion, qui repose sur des récits immersifs et cohérents. 
+- Enfin, l’étude propose des recommandations pratiques pour l’optimisation de l’IA dans la création pédagogique, en visant à __maximiser son potentiel sans sacrifier la qualité éducative__ des contenus produits. 
+
+L'idée est d’aboutir à un modèle où l'IA devient un véritable __co-concepteur pédagogique__, en étant capable de générer du contenu pertinent et facilement intégrable dans des scénarios immersifs.
 
 ## Slide 4 : Enjeux
 Les enjeux de cette recherche sont multiples. Au niveau macro, il s’agit d’apporter une innovation pédagogique substantielle dans l’enseignement du français des affaires, en exploitant l’IA pour des apprentissages à la fois ludiques et réalistes. Plus spécifiquement, cette étude examine le potentiel de l’IA pour rendre les contenus éducatifs plus immersifs et plus ciblés, en alignant les activités pédagogiques avec les situations professionnelles que les apprenants pourraient rencontrer dans leur quotidien. Un autre enjeu essentiel est l’accessibilité de la formation, car l'IA pourrait faciliter la création de ressources de qualité sans nécessiter des compétences expertes en création de contenus. Cela permettrait aux petites structures éducatives d'innover tout en restant dans un cadre budgétaire raisonnable.
