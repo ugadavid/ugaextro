@@ -1,5 +1,7 @@
 # L'IA générative au service de la conception pédagogique - Création d'un jeu d'évasion pour l'enseignement du français des affaires
 
+[PP](presentation.pptx)
+
 ## Slide 1 : Couverture
 Bonjour à toutes et à tous. Aujourd’hui, je vais vous présenter le mémoire de __Mariane Mendes-Gayte__, intitulé **L'IA générative au service de la conception pédagogique - Création d'un jeu d'évasion pour l'enseignement du français des affaires**. 
 
