@@ -11,15 +11,16 @@
 
 A partir d’un mémoire de Master (DUMAS) réaliser une présentation orale à l’aide d’un diaporama en suivant les ≠ étapes de la recherche :
 
-- **Enjeux/contexte**
-- **Cadre théorique** (Etat de l'art)
-- **Problématique**
-- **Méthodologie**
-- **Résultats**
-- **Conclusion réflexive**
+- **Introduction** (Enjeux/contexte, plan, constats, objectif)
+- **Cadre théorique** (Etat de l'art, état des lieux de la situation, revue de la littérature, notions clés)
+- **Problématique** (Question de recherche)
+- **Méthodologie** (Enquête, expérimentation... , présenter ses étapes)
+- **Résultats** (Répondent à la problématique. Perspectives ?)
+- **Conclusion réflexive / discussion**
   - Pourquoi avoir choisi ce mémoire ?
     - Ses points forts et ses points faibles
   - Ce que j’en retiens pour mon mémoire (méthodologie, cadre théorique,...)
+- **Bibliographie**
 
 
 # Description
@@ -43,6 +44,28 @@ Cette partie synthétise les principaux résultats et les interprète en les rep
 
 ## Bibliographie : 
 C'est la liste des sources et références utilisées tout au long du mémoire. Elle inclut les ouvrages, articles, et autres documents consultés et cités dans le travail, permettant aux lecteurs de retrouver les informations et approfondir le sujet.
+
+
+# Les lanceurs pour articuler votre présentation
+- Dans ce mémoire intitulé XXXXXXX, date, directeur de mémoire, est présentée une recherche portant sur... et/ou s’intéresse à la question de...
+- Le contexte dans lequel s’inscrit...
+- Le cadre théorique s’appuie principalement sur les travaux de...
+- Le mémoire a pour objectif de répondre à la question de recherche suivante...
+- La méthodologie repose sur...
+- Les principaux résultats de la recherche montrent...
+
+
+- La problématique de ce mémoire porte sur...
+- La méthodologie adoptée dans ce mémoire repose sur...
+
+## Vocabulaire
+- objet de la recherche
+- champs
+- interrelations
+- multiplicité des questions/des axes de recherche
+- point nodal
+- constitution du corpus
+- mémoire adossé à un stage
 
 
 ### Back home
