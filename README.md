@@ -67,6 +67,10 @@ C'est la liste des sources et références utilisées tout au long du mémoire. 
 - constitution du corpus
 - mémoire adossé à un stage
 
+## Définitions
+- Qualitative : entretiens
+- Quantitative : questionnaires
+
 
 ## Back home
 
