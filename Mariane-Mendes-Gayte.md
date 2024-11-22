@@ -2,6 +2,8 @@
 
 [PP](presentation.pptx)
 
+Imaginez une intelligence artificielle capable de vous aider à créer, en quelques clics, une aventure immersive qui transporte vos apprenants dans un univers pédagogique unique. Science-fiction ? Pas pour ce mémoire. Découvrez comment l’IA générative redéfinit la façon dont nous concevons l’apprentissage.
+
 ## Slide 1 : Couverture
 Bonjour à toutes et à tous. Aujourd’hui, je vais vous présenter le mémoire de __Mariane Mendes-Gayte__, intitulé **L'IA générative au service de la conception pédagogique - Création d'un jeu d'évasion pour l'enseignement du français des affaires**. 
 

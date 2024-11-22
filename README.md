@@ -68,7 +68,7 @@ C'est la liste des sources et références utilisées tout au long du mémoire. 
 - mémoire adossé à un stage
 
 
-### Back home
+## Back home
 
 **Description :** Projet central pour organiser et suivre tous mes autres projets.
 [Lien vers le dépôt](https://github.com/ugadavid/project-manager)
